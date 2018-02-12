@@ -1,9 +1,9 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LineageDarkTheme
+LOCAL_RRO_THEME := MoKeeDarkTheme
 LOCAL_CERTIFICATE := platform
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LineageDarkTheme
+LOCAL_PACKAGE_NAME := MoKeeDarkTheme
 
 include $(BUILD_RRO_SYSTEM_PACKAGE)

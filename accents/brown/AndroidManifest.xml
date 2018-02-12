@@ -14,21 +14,21 @@
     limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.lineageos.overlay.accent.brown"
+    package="org.mokee.overlay.accent.brown"
     android:versionCode="1"
     android:versionName="1.0">
 
         <overlay
             android:targetPackage="android"
-            android:label="@*lineageos.platform:string/accent_brown"
+            android:label="@*mokee.platform:string/accent_brown"
             android:priority="1" />
 
     <application
         android:hasCode="false"
-        android:label="@*lineageos.platform:string/accent_brown">
+        android:label="@*mokee.platform:string/accent_brown">
 
         <meta-data
-            android:name="lineage_berry_accent_preview"
+            android:name="mokee_berry_accent_preview"
             android:value="#795548" />
     </application>
 </manifest>
