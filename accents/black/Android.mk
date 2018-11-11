@@ -1,10 +1,10 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LineageBlackAccent
+LOCAL_RRO_THEME := MoKeeBlackAccent
 LOCAL_CERTIFICATE := platform
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LineageBlackAccent
+LOCAL_PACKAGE_NAME := MoKeeBlackAccent
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
