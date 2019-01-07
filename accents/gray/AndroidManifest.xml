@@ -14,7 +14,7 @@
     limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.mokee.overlay.accent.blue"
+    package="org.mokee.overlay.accent.gray"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -24,10 +24,10 @@
 
     <application
         android:hasCode="false"
-        android:label="@*mokee.platform:string/accent_blue">
+        android:label="@*mokee.platform:string/accent_gray">
 
         <meta-data
             android:name="mokee_berry_accent_preview"
-            android:value="#4182EF" />
+            android:value="#607D8B" />
     </application>
 </manifest>
