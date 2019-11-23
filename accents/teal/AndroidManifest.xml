@@ -24,10 +24,5 @@
 
     <application
         android:hasCode="false"
-        android:label="@*mokee.platform:string/accent_teal">
-
-        <meta-data
-            android:name="mokee_berry_accent_preview"
-            android:value="#167C80" />
-    </application>
+        android:label="@string/accent_color_teal_overlay" />
 </manifest>
